@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '2.1.15-cantab1'
+version = '2.1.15-cantab2'
 
 setup(name='Products.ATContentTypes',
       version=version,
